@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, Soy César Guevara Cabrera</h1>
 <h3 align="center">Fullstack Developer con especialización en Frontend y en formacion de una Maestría en Inteligencia Artificial.</h3>
 <p align="center">
-  https://www.linkedin.com/in/cesarguevaracabrera/
   <a href="https://www.linkedin.com/in/cesarguevaracabrera" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="cesarguevaracabrera" /></a>
   <a href="https://www.youtube.com/@domakedev-desarrollowebful7121" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="domakedev-youtube"/></a>
   <a href="https://www.domakedev.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Mi_Portafolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="domakedev-portfolio"/></a>
