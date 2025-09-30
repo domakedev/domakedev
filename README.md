@@ -3,26 +3,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domakedev&label=Profile%20views&color=0e75b6&style=flat" alt="domakedev" /> </p>
 
-- 🔭 Actualmente estoy trabajando en [Tokitask](https://www.tokitask.com/dashboard/day)
+- 🔭 Actualmente estoy trabajando en un proyecto personal integrando AI y usando AI: [Tokitask](https://www.tokitask.com/dashboard/day) Es un proyecto que surge de mi necesidad de una app que pueda organizar las tareas de mis dias con razonamiento **inteligente** y monitorear mis hábitos con datos almacenados de forma confiable, ademas de hacer uso de modelos de AI para el desarrollo mas rapido, este proyecto quedó funcional en aproximadamente 2 dias(luego 1 semana levantando observaciones, 1 mas con nuevas features), no es perfecto pero es funcional, es un experimento actual 🧫🔬.
 
-- 🌱 Estoy estudiando una Maestría en Inteligencia Artificial **ML, Deep Learning, AI**
+- 🌱 Estoy estudiando una Maestría en Inteligencia Artificial en la Universidad Nacional de Ingenieria en Perú tratando temas como **ML, Deep Learning, AI**
 
-- 👨‍💻 Todos mis proyectos estan en: [https://www.domakedev.com/](https://www.domakedev.com/)
+- 👨‍💻 Todos mis proyectos estan en: [domakedev.com](https://www.domakedev.com/)
 
-- 📝 Regularmente creo contenido educativo en mi canal de youtube [https://www.youtube.com/@domakedev-desarrollowebful7121](https://www.youtube.com/@domakedev-desarrollowebful7121)
+- 📝 Regularmente creo contenido educativo en mi canal de [Youtube](https://www.youtube.com/@domakedev-desarrollowebful7121)
 
-- 💻 Me especializo en el desarrollo de software web **ReactJs, Typescript, NextJs, NodejJs**
+- 💻 Me especializo en el desarrollo de software web y movil con **React, React Native, Next.js, TypeScript, JavaScript, CSS, TailwindCSS, Styled Components, React Query, Redux, Zustand, Testing, Node.js, Express.js, PostgreSQL, MongoDB, GraphQL, JWT, Git, GitHub, SCRUM.**
 
-- 📫 Puedes escribirme a mi correo personal **sarcansino@gmail.com**
+- 📫 Si estas interesado en mi trabajo o dudas sobre mi contenido gratuito, puedes escribirme a mi correo personal **sarcansino@gmail.com**
 
-- 📄 Me gusta crear soluciones digitales a problemas del mundo real, eso hago en cada proyecto [https://www.domakedev.com/](https://www.domakedev.com/)
+- 📄 Me gusta crear soluciones digitales a problemas del mundo real, eso hago en cada proyecto [domakedev.com](https://www.domakedev.com/)
 
 - ⚡ Me apasionan 3 áreas profesionales en la vida **💻Desarrollo de software + 🦾Electrónica + 🧠AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cesarguevaracabrera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cesarguevaracabrera" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/domakedev-desarrollowebful7121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="domakedev-desarrollowebful7121" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@domakedev-desarrollowebful7121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="domakedev-desarrollowebful7121" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
